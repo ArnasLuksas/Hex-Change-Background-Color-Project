@@ -9,4 +9,4 @@
 - SCSS
 - Java Script
 
-<img width="1675" alt="constructions windows doors" src="https://raw.githubusercontent.com/ArnasLuksas/Hex-Change-Background-Color-Project/master/img/Screenshot%202021-02-17%20at%2017.33.03.png">
+<img width="1675" src="https://raw.githubusercontent.com/ArnasLuksas/Hex-Change-Background-Color-Project/master/img/Screenshot%202021-02-17%20at%2017.33.03.png">
